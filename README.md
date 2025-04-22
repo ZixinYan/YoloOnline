@@ -16,8 +16,8 @@
    ```
 
 ### 项目截图
-![页面](https://github.com/ZixinYan/YoloOnline/doc/panel.png)
-![图片检测结果](https://github.com/ZixinYan/YoloOnline/doc/result.png)
+![页面](/doc/panel.png)
+![图片检测结果](/result.jpg)
 
 ### 其他
 学yolov5的时候做的一个小项目，其实搭建好了Django框架，内容还可以自行二开扩展，数据集可以进行训练后直接使用，也支持选择不同模型进行检测
